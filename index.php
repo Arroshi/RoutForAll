@@ -17,6 +17,7 @@ echo "testing";
  </head>
  <body>
     <br>
+    <strong>Holes</strong>
     <strong>agregar nav bar here</strong>
     <div id="googleMap" style="height:100%;"></div>
  </body>
